@@ -9,3 +9,7 @@ Problems (in lexicographical order) – status:
 🟢 1.4: 37, 53, 59, 61
 
 🟢 1.5: 19, 21, 31, 49
+
+# Week 15 – DM Homework Report
+
+🔴 1.8: 25, 27, 35
