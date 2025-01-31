@@ -1,6 +1,4 @@
 # Week 14 – DM Homework Report
-## Minimal Homework
-Problems (in lexicographical order) – status:
 
 🟢 1.1: 13, 33, 35, 41
 
