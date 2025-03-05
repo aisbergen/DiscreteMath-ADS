@@ -1,3 +1,4 @@
+## Homework is from the book Discrete Math and Its Applications Seventh Edition 
 # Week 14 – DM Homework Report
 
 🟢 1.1: 13, 33, 35, 41
@@ -10,4 +11,8 @@
 
 # Week 15 – DM Homework Report
 
-🔴 1.8: 25, 27, 35
+🟢 1.8: 25, 27, 35
+
+# Week 16
+
+🟢 Section 2.5
